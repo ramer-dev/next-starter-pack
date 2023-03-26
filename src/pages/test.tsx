@@ -4,7 +4,7 @@ export default function test() {
   return (
     <div>
       <NavBar />
-      <p>test is Affected?</p>
+      <p>test is Affected??</p>
     </div>
   );
 }
